@@ -1,0 +1,11 @@
+[project]
+name = "authentication"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.quantum]
+path = "contracts/quantum.clar"
+depends_on = []
